@@ -57,7 +57,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing and
 
 👉 Would you like me to also create a **professional repo name** and a ready-to-use **README.md file content** with badges (e.g., Power BI, License, Contributions welcome)?
 
-![Screenshot]("C:\Users\abhia\OneDrive\Pictures\Screenshots 1\Screenshot 2025-08-24 104420.png".png)
+![Screenshot](Screenshot 2025-08-24 104420.png".png)
 
 Citations:
 [1] Screenshot-2025-08-24-104053.jpeg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/99038726/38dacaa0-2af7-46ca-a326-80b009c10f93/Screenshot-2025-08-24-104053.jpeg
