@@ -2,7 +2,7 @@
 
 This repository contains an **interactive Power BI dashboard** for analyzing and forecasting store sales performance across different categories, regions, and time periods.  
 
-## 🚀 Features  
+##  Features  
 - **Sales Overview**:  
   - Total Sales, Profit, and Average Order metrics at a glance.  
   - Sales breakdown by **Category, Sub-Category, Segment, State, and Shipping Mode**.  
@@ -25,7 +25,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing and
 
 ## 📂 Repository Structure  
 ```
-📁 sales-analysis-dashboard
+ sales-analysis-dashboard
  ┣ 📊 Dashboard Files (e.g., .pbix / .xlsx)
  ┣ 📜 README.md   <-- Project documentation
  ┣ 📂 Data (sample dataset if allowed)
@@ -37,7 +37,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing and
 - **Excel / CSV Dataset** (Data Source)  
 - **Time Series Forecasting** (Sales Projection)  
 
-## 📸 Dashboard Previews  
+##  Dashboard Previews  
 ### Page 1: Sales Overview  
 - Category-wise, Segment-wise, State-wise analysis.  
 - YOY performance trends.  
@@ -48,7 +48,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing and
 
   
 
-## 🔮 Future Enhancements  
+## Future Enhancements  
 - Include more **machine learning models** for better forecasting.  
 - Add **customer segmentation analysis**.  
 - Automate **data refresh & integration with live sales systems**.  
