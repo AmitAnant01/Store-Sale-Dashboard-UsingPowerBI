@@ -26,26 +26,9 @@ This repository contains an **interactive Power BI dashboard** for analyzing and
   - Short-term forecasting using time series models.  
   - Interactive visualization for demand planning.  
 
-## 📂 Repository Structure  
-```
- sales-analysis-dashboard
- ┣ 📊 Dashboard Files (e.g., .pbix / .xlsx)
- ┣ 📜 README.md   <-- Project documentation
- ┣ 📂 Data (sample dataset if allowed)
- ┗ 📂 Images (screenshots of dashboard)
-```
 
 ## 🛠️ Tools & Technologies  
 - **Power BI** (Data Visualization & Dashboarding)  
 - **Excel / CSV Dataset** (Data Source)  
 - **Time Series Forecasting** (Sales Projection)  
-
-##  Dashboard Previews  
-### Page 1: Sales Overview  
-- Category-wise, Segment-wise, State-wise analysis.  
-- YOY performance trends.  
-
-### Page 2: 15-Day Sales Forecast  
-- Time series forecast with state-wise sales contribution.  
-- Helps in inventory planning & decision-making.  
 
