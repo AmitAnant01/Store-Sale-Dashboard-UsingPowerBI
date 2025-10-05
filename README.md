@@ -1,3 +1,5 @@
+![My image](Image1.png)
+
 # 📊 Store Sales Analysis Dashboard  
 
 This repository contains an **interactive Power BI dashboard** for analyzing and forecasting store sales performance across different categories, regions, and time periods.  
