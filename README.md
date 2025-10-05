@@ -1,5 +1,5 @@
-![My Image](imagepng)
-![My Image](forcImg.png)
+![My Image](Image1png)
+![My Image](ForcImg.png)
 
 # 📊 Store Sales Analysis Dashboard  
 
