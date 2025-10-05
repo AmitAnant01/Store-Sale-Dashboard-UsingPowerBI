@@ -1,4 +1,4 @@
-![My Image](Image1.png)
+![My Image](Demo1.png)
 
 # 📊 Store Sales Analysis Dashboard  
 
